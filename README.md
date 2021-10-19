@@ -19,6 +19,10 @@ Seria ótimo alguns testes de integração/e2e para garantir que o app funcione 
 Testes integração (react-native-testing-library)
 Testes e2d (detox)
 
+Github API:
+
+[Documentação](https://docs.github.com/en/rest)
+
 Screenshots:
 
 ![Home](home.gif)
